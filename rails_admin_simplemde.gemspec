@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{SimplemdeRails field for RailsAdmin}
   spec.description   = %q{SimplemdeRails field for RailsAdmin.}
-  spec.homepage      = 'https://github.com/red-rocks/rails_admin_simplemde'
+  spec.homepage      = 'https://github.com/ack43/rails_admin_simplemde'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
